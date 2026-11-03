@@ -8,8 +8,8 @@
 
 | Браузер | Установка | Доступ |
 | --- | --- | --- |
-| Google Chrome | [Открыть Chrome Web Store](https://chromewebstore.google.com/detail/pnbkijkogidbccahihbllffpgipmdbee) | Закрытое тестирование по приглашению |
-| Mozilla Firefox | [Открыть Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/) | Версия 0.1.5 ожидает проверки Mozilla |
+| Google Chrome | [Открыть Chrome Web Store](https://chromewebstore.google.com/detail/pnbkijkogidbccahihbllffpgipmdbee) | Закрытое тестирование; 0.1.4 доступна, 0.1.6 на проверке |
+| Mozilla Firefox | [Открыть Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/) | Версия 0.1.6 ожидает проверки Mozilla |
 | Microsoft Edge | Пока недоступно | Сборка для магазина готовится |
 
 ## Доступ к Chrome
@@ -20,7 +20,7 @@
 
 Требуется Firefox Desktop 142 или новее.
 
-Основной способ установки - [официальная страница Родника в Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/). Первая магазинная версия 0.1.5 отправлена на проверку; до одобрения страница может быть недоступна обычным посетителям.
+Основной способ установки - [официальная страница Родника в Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/). Версия 0.1.6 отправлена на проверку; до одобрения страница может быть недоступна обычным посетителям.
 
 1. После публикации откройте страницу дополнения именно в Firefox.
 2. Нажмите кнопку добавления в Firefox и подтвердите разрешения браузера.
