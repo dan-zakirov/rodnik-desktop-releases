@@ -8,8 +8,8 @@
 
 | Браузер | Установка | Доступ |
 | --- | --- | --- |
-| Google Chrome | [Открыть Chrome Web Store](https://chromewebstore.google.com/detail/pnbkijkogidbccahihbllffpgipmdbee) | Общедоступная 0.1.8; обновление 0.1.9 ожидает проверки Google |
-| Mozilla Firefox | [Открыть Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/) | Общедоступная 0.1.9 |
+| Google Chrome | [Открыть Chrome Web Store](https://chromewebstore.google.com/detail/pnbkijkogidbccahihbllffpgipmdbee) | Общедоступная 0.1.8; обновление 0.1.10 ожидает проверки Google |
+| Mozilla Firefox | [Открыть Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/) | Общедоступная 0.1.10 |
 | Microsoft Edge | Пока недоступно | Публикация отложена |
 
 ## Напоминания
@@ -18,11 +18,13 @@
 
 Напоминания можно показывать отдельной вкладкой рядом с группами ссылок или компактной сменяемой строкой. Поддерживаются дата, время, повторы, пауза, завершение и откладывание на 10 минут.
 
+В версии 0.1.10 исправлено вертикальное центрирование часов, приветствия, строки напоминаний и ссылок. Содержимое равномерно располагается по высоте окна; на невысоких экранах сохраняется компактный вид. Длинные списки прокручиваются без обрезания.
+
 ## Установка Firefox
 
 Требуется Firefox Desktop 142 или новее.
 
-Основной способ установки - [официальная страница Родника в Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/). Версия 0.1.9 опубликована.
+Основной способ установки - [официальная страница Родника в Mozilla Add-ons](https://addons.mozilla.org/ru/firefox/addon/rodnik-desktop/). Версия 0.1.10 опубликована.
 
 1. Откройте страницу дополнения именно в Firefox.
 2. Нажмите кнопку добавления в Firefox и подтвердите разрешения браузера.
